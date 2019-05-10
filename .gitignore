@@ -9,6 +9,9 @@ __pycache__/
 #db file
 *.db
 
+# idea dir
+.idea/
+
 # Distribution / packaging
 .Python
 build/
